@@ -77,7 +77,6 @@ Geographic diversification reduces market dependency risk.
 
 📷 Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
-<img width="508" height="304" alt="image" src="https://github.com/user-attachments/assets/6915eca4-a05d-4323-b369-2818db1d601a" />
 
 
 🚀 Future Improvements
